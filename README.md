@@ -58,7 +58,7 @@ The download buttons link to Google Drive where the STUDA application binaries a
 **Robert Gembe**
 
 - GitHub: [@Robert-Xsa](https://github.com/Robert-Xsa)
-- LinkedIn: [Robert Gembe](https://www.linkedin.com/in/robert-gembe)
+- LinkedIn: [Robert Gembe](https://www.linkedin.com/in/robert-gembe-marcely/)
 
 ## License
 
