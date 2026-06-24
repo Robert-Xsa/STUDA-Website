@@ -38,7 +38,7 @@ Then open `http://localhost:8080` in your browser. You can also open `index.html
 
 ## Deployment
 
-Push to the `main` branch — the site is served via GitHub Pages from `https://github.com/Robert-Xsa/STUDA-Website`.
+Push to the `main` branch — the site is served via GitHub Pages at [studa.support](https://studa.support) (configured via `CNAME`).
 
 ## Project Structure
 
@@ -46,6 +46,7 @@ Push to the `main` branch — the site is served via GitHub Pages from `https://
 STUDA-Website/
 ├── index.html        # Single-page website (embedded CSS + JS)
 ├── STUDA-logo.png    # Logo and favicon
+├── CNAME             # Custom domain: studa.support
 └── README.md         # This file
 ```
 
